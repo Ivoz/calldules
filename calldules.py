@@ -51,8 +51,11 @@ Was possible? Well:
 
 4. PROFIT!!!
 
+Also works with such modules as ``flask``, ``codecs``, ``array``, ``datetime``,
+``decimal``, ``random``, and many more!
+
 No responsibility is taken for any grievous harm caused either
-by irresponsible *or* responsbile use of ``calldules``.
+by irresponsible *or* responsible use of ``calldules``.
 
 Inspired by Richard Jones' talk `Don't Do This`_.
 
