@@ -43,7 +43,7 @@ Was possible? Well:
    >>> import pprint
    >>> pprint("hello")
 
-3. ????
+3. ???\?
 
    ::
 
@@ -53,6 +53,10 @@ Was possible? Well:
 
 No responsibility is taken for any grievous harm caused either
 by irresponsible *or* responsbile use of ``calldules``.
+
+Inspired by Richard Jones' talk `Don't Do This`_.
+
+.. _Don't Do This: http://www.youtube.com/watch?v=H2yfXnUb1S4
 """
 
 
