@@ -4,18 +4,18 @@ try:
 except:
     from distutils.core import setup
 
-from calldules import __doc__
+readme = open('README.rst').read()
 
 
 setup(
     name='calldules',
-    version='1.0',
+    version='1.0.1',
     url='https://github.com/Ivoz/calldules/',
     license='MIT',
     author='Matthew Iversen',
     author_email='matt@notevencode.com',
-    description='making modules callable, for not very good reasons.',
-    long_description=__doc__,
+    description='Making modules callable, for not very good reasons.',
+    long_description=readme,
     py_modules=['calldules'],
     zip_safe=True,
     classifiers=[
